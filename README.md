@@ -60,4 +60,4 @@ To run tests, you need to run the following command:
 
 * Email: betty.haile.us@gmail.com
 
-## youtube video link: 
+## youtube video link:
