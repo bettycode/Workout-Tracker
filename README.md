@@ -15,10 +15,10 @@ The workout Tracker will provide the following benifites.
 
 #
 
-![img](assete/screenshot1.png)
+![img](assete/Screenshot1.png)
 
 #
-![img](assete/screenshot3.png)
+![img](assete/Screenshot3.png)
 
 # Table of Contents
 
