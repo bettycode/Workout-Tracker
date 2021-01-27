@@ -52,7 +52,7 @@ router.put("/api/workouts/:id", ({ body, params }, res) => {
 // gets a range of workouts from the database
 router.get("/api/workouts/range", (req, res) => {
   db.Workout.find({})
-    .limit(8)
+    //.limit(8)
     .then((data) => {
       console.log(data);
       res.json(data);
